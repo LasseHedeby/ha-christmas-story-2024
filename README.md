@@ -14,7 +14,7 @@ Min julekalender for mine børn i julen 2024.
 ## Fremgangsmåde
 ### Selve historien
 1. Jeg bad ChatGPT lave en jule kalender i 25 afsnit. Den skulle være på 8-10 sætninger, og have positive, motiverende, opmuntrende og næstekærlige budskaber, som skulle bringes frem af fortælleren. Den skulle tilpasses børn i alderen 8-12 år.
-2. Da jeg var tilfreds med historien, bad jeg ChatGPT formater historing i et JSON objekt, med dato fra 01-12-2024 og afsnittet i et array.
+2. Da jeg var tilfreds med historien, bad jeg ChatGPT formater historien i et JSON objekt, med dato fra 01-12-2024 og afsnittet i et array.
 3. Jeg bad den indsætte 3 punktummer (...) ved hvert punktum. Dette skal bruge til at give ekstra pause til Google Text-to-speech.
 
 **Eksempel:**
