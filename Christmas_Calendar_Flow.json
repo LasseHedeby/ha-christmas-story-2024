@@ -1,0 +1,269 @@
+[
+    {
+        "id": "34ff5e126850947f",
+        "type": "tab",
+        "label": "Christmas Calendar",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "388fee6e7befdca0",
+        "type": "template",
+        "z": "34ff5e126850947f",
+        "name": "Historien",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "plain",
+        "template": "[\n    {\n      \"dato\": \"01-12-2024\",\n      \"afsnit\": \"Det var en kold decembermorgen, og snefnuggene dalede ned over den lille by, hvor Emma og Lukas boede... De gik ud i sneen for at lave sneengle, og mens de lå dér og kiggede op mod himlen, mærkede de en stor glæde over at have hinanden... De vidste, at der var noget magisk ved december og de små øjeblikke, de kunne dele sammen... For glæden bliver altid større, når man kan dele den med dem, man holder af... Emma kiggede over på Lukas og smilede, og de følte begge, at denne december ville blive helt speciel...\",\n      \"farjoke\": \"Hvad kalder man en boomerang, der ikke kommer tilbage?.... En pind.\"\n    },\n    {\n      \"dato\": \"02-12-2024\",\n      \"afsnit\": \"På vej hjem fra sneenglene mødte Emma og Lukas deres nabo, gamle Hr. Madsen, som så lidt trist ud... Da de spurgte hvorfor, fortalte han, at han følte sig ensom, når det blev vinter og dagene blev korte... Uden at tænke videre over det, inviterede de ham ind til varm kakao, og Hr. Madsens øjne lyste straks op... Inde i varmen snakkede de sammen og Hr. Madsen fortalte gamle historier fra sin barndom... Nogle gange kan en lille venlig handling gøre en stor forskel, og Emma og Lukas vidste, at de havde gjort Hr. Madsens dag lidt lysere...\",\n      \"farjoke\": \"Hvad er en computers favorit-snack? Mikro chips...\"\n    },\n    {\n      \"dato\": \"03-12-2024\",\n      \"afsnit\": \"Efter skole fandt Emma og Lukas en lille fugl, som var faldet ned fra sit træ... Den så træt og forkommen ud, og de kunne ikke bære at gå forbi uden at hjælpe... De løftede den forsigtigt op og lagde den et roligt og sikkert sted, hvor den kunne hvile sig... Selv de mindste væsner har brug for hjælp nogle gange, tænkte de, og de følte sig glade for at kunne gøre noget godt... Med et sidste blik på den lille fugl gik de videre, glade for at have hjulpet en ven i nød...\",\n      \"farjoke\": \"Hvad sagde den ene væg til den anden?.... Vi mødes på hjørnet.\"\n    },\n    {\n      \"dato\": \"04-12-2024\",\n      \"afsnit\": \"Senere på dagen kom de forbi legepladsen, hvor nogle børn var i gang med at bygge en snemand... Emma og Lukas tilbød straks deres hjælp, og alle kastede sig ivrigt ind i projektet... Sammen byggede de byens flotteste snemand med gulerodsnæse, kasket og et stort smil... De kunne mærke, at de alle havde bidraget på hver deres måde, og det gjorde snemanden ekstra speciel... De vidste, at sammen kan man skabe noget endnu større og sjovere, og alle gik derfra med smil på læben...\",\n      \"farjoke\": \"Hvorfor kan spøgelser ikke lyve?.... Fordi man altid kan se lige igennem dem.\"\n    },\n    {\n      \"dato\": \"05-12-2024\",\n      \"afsnit\": \"Hjemme hos deres bedstemor den aften sad de og lyttede til hendes historier om julen i gamle dage... Hun fortalte, hvordan de lavede hjemmelavet pynt, spillede spil omkring bordet og gik i kirke juleaften... Emma og Lukas lyttede med store øjne, og Emma sagde, 'Det må have været helt særligt'... Bedstemoren nikkede og mindede dem om, at de gode minder skaber vi sammen, og de følte sig ekstra tæt på hende... De tænkte over, hvor speciel julen kan være, når man skaber minder sammen med dem, man holder af...\",\n      \"farjoke\": \"Hvordan holder man jer spændt?.... Jeg fortæller det i morgen.\"\n    },\n    {\n      \"dato\": \"06-12-2024\",\n      \"afsnit\": \"Dagen efter kom Emma og Lukas forbi en lille dreng, der forsøgte at stå på skøjter for første gang... Han blev ved med at falde, men hver gang rejste han sig igen med et grin og en beslutsomhed i blikket... Emma og Lukas blev stående og heppede på ham, og til sidst lykkedes det ham at holde balancen et par sekunder... 'Se hvor modig han er,' sagde Lukas og følte sig inspireret af drengens vilje... Nogle gange skal man bare blive ved, uanset hvor mange gange man falder...\",\n      \"farjoke\": \"Hvorfor er zoologisk have aldrig blevet solgt?.... Den er for dyr.\"\n    },\n    {\n      \"dato\": \"07-12-2024\",\n      \"afsnit\": \"På vej hjem besluttede Emma og Lukas at lave en hemmelig gave til deres forældre... De brugte tid og kærlighed på at skabe noget særligt og personligt, et lille julekort og et hjemmelavet stearinlys... De opdagede, at det bedste ved gaver ikke altid er størrelsen, men tanken og kærligheden bag... De kunne allerede forestille sig glæden i deres forældres ansigter, når de åbnede gaven juleaften... De følte en varme indeni, for det er ofte de små, hjemmelavede gaver, der betyder mest...\",\n      \"farjoke\": \"Hvad hedder verdens fattigste konge?.... Kong Kurs\"\n    },\n    {\n      \"dato\": \"08-12-2024\",\n      \"afsnit\": \"Da de vågnede næste morgen, havde sneen dækket hele byen som et tykt, hvidt tæppe... Emma og Lukas løb ud og byggede et lille hus af sne, og snart kom børnene fra hele kvarteret for at se... De åbnede 'dørene' for alle, og der blev leget og grinet, som om det var et rigtigt hus... De følte, at de havde skabt noget særligt sammen, noget, som de alle kunne dele glæden ved... Det er dejligt at skabe noget, som andre kan glæde sig over og få en fælles oplevelse ud af...\",\n      \"farjoke\": \"Hvorfor kan uret ikke få tiden til at flyve? Fordi det hænger fast på væggen...\"\n    },\n    {\n      \"dato\": \"09-12-2024\",\n      \"afsnit\": \"Senere på dagen hjalp Emma sin lillebror Lukas med at lave et kort til deres mormor... Lukas kunne ikke helt finde ud af det, men Emma hjalp tålmodigt og viste ham, hvordan han skulle gøre... Efter et par forsøg lykkedes det, og Lukas strålede af stolthed over kortet, han havde lavet... Emma vidste, at nogle gange kan vi bedst hjælpe andre ved at være tålmodige og støttende... Hun følte sig stolt over at have hjulpet sin lillebror og glædede sig til at give kortet til mormor...\",\n      \"farjoke\": \"Hvad er ligheden mellem en sædcelle og en mand?.... Kun en ud af en million bliver til noget\"\n    },\n    {\n      \"dato\": \"10-12-2024\",\n      \"afsnit\": \"På vej til skolen så Emma og Lukas en lille hund, der sad og peb ved vejkanten... De satte sig ned og snakkede stille til hunden, som rystede lidt, men virkede glad for deres selskab... En forbipasserende voksen kom til og hjalp dem med at finde hundens ejer, der havde ledt desperat efter den... Ejeren var meget taknemmelig, og hunden logrede ivrigt, da den blev forenet med sin ejer... Det føltes godt for Emma og Lukas at have hjulpet, og de mærkede, at selv små handlinger kan gøre en stor forskel...\",\n      \"farjoke\": \"Hvad sagde den store skoresten til den lille skoresten?.... Du er for lille til at ryge!\"\n    },\n    {\n      \"dato\": \"11-12-2024\",\n      \"afsnit\": \"I skolen lavede klassen papirhjerter, som de hængte op i vinduerne for at pynte skolen til jul... Emma og Lukas foldede hjerter i alle mulige farver og former, og snart var vinduerne dækket af et farverigt mønster... Deres lærer smilede og sagde, at det var den flotteste juleudsmykning, de nogensinde havde haft... De følte en stolthed over at have bidraget til noget så smukt sammen med deres klassekammerater... Når vi arbejder sammen, kan vi skabe noget, der er smukt for alle...\",\n      \"farjoke\": \"Hvis man får en bog i en happy meal er det så en MacBook?...\"\n    },\n    {\n      \"dato\": \"12-12-2024\",\n      \"afsnit\": \"Den dag gik Emma og Lukas en tur gennem byen og sang julesange for dem, de mødte på deres vej... De lagde mærke til, hvordan folk stoppede op, smilede og endda sang med... De følte en særlig glæde, når de så, hvordan musikken fik folk til at føle sig forbundet og glade... Julesangene spredte en glæde, der varmede dem helt indeni... Nogle gange kan noget så enkelt som en sang gøre en stor forskel for dem omkring os...\",\n      \"farjoke\": \"Hvorfor er det kun fædre der må drikke af Kattegat?.... Fordi det er farvand!\"\n    },\n    {\n      \"dato\": \"13-12-2024\",\n      \"afsnit\": \"Emma og Lukas besluttede at lave julepynt af genbrugsmaterialer fra hjemmet... De fandt gamle papkasser, farvet papir og knapper og satte sig for at skabe noget unikt... Snart var der pynt i alle farver, og de opdagede, hvor sjovt det var at skabe noget nyt af noget gammelt... De følte sig kreative og tilfredse, for det bedste kommer ofte fra fantasi og evnen til at se muligheder i ting, der ellers ville blive smidt væk... De vidste, at deres pynt ville bringe glæde, ikke kun for dem selv, men også for dem, der så det...\",\n      \"farjoke\": \"Hvorfor er citroner gule?.... Det ved de heller ikke selv, det er derfor de er så sure!\"\n    },\n    {\n      \"dato\": \"14-12-2024\",\n      \"afsnit\": \"På en kold aften tog Emma og Lukas varm kakao med til en mand, der sad alene på en bænk i parken... Han så overrasket ud, men tog imod med et smil og et taknemmeligt blik... De satte sig ved siden af ham og snakkede lidt om julen og vinterens magi... Hans øjne lyste op, og de mærkede, hvor meget det betød for ham... Nogle gange er det mindste det største for en anden, tænkte de, og de gik hjem med en særlig varme indeni...\",\n      \"farjoke\": \"Jeg er så god til at sove at jeg kan gøre det med lukket øjne....\"\n    },\n    {\n      \"dato\": \"15-12-2024\",\n      \"afsnit\": \"I dag kom deres venner over for at bygge et julelandskab med små figurer og huse... Sammen lagde de bomuldssne, små træer og lys og skabte et lille vinterlandskab... De arbejdede sammen, grinede og gav hinanden idéer, og da de var færdige, var de alle stolte over det, de havde skabt... Emma og Lukas så på deres vennegruppe og mærkede, hvor særligt det er at skabe noget sammen... Når vi deler vores idéer og kreativitet, bliver det, vi laver, noget helt særligt...\",\n      \"farjoke\": \"Hvor gammel kan en elg blive?.... Ældgammel\"\n    },\n    {\n      \"dato\": \"16-12-2024\",\n      \"afsnit\": \"Emma og Lukas fandt nogle gamle julehistorier i bedstemors gemmer og begyndte at læse dem op for hinanden... Hver historie mindede dem om, hvordan julen handler om kærlighed og at være sammen... De læste med store øjne og drømte sig tilbage til dengang, deres bedstemor var barn... Bedstemoren smilede og sagde, at historier lever videre, når vi deler dem med hinanden... Emma og Lukas følte, at de var en del af noget større, og de vidste, at de ville huske disse øjeblikke for altid...\",\n      \"farjoke\": \"Hvad sagde skuffen til skabet?... Hvorfor skuffer du mig?... Hvad sagde skabet til skuffen?... Hvorfor skaber du dig?\"\n    },\n    {\n      \"dato\": \"17-12-2024\",\n      \"afsnit\": \"På vej hjem fra skolen så Emma og Lukas, hvordan nogle fugle kæmpede for at finde mad under sneen... De samlede nogle krummer og nødder og lagde dem forsigtigt ud til fuglene, som hurtigt samlede sig om maden... Fuglene fløj omkring dem og spiste gladeligt, og Emma og Lukas følte sig glade for at kunne hjælpe... Selv en lille gestus kan betyde meget for andre, tænkte de, og de besluttede at fodre fuglene hver dag resten af vinteren...\",\n      \"farjoke\": \"Hvordan får man en fisk til at grine?.... Man putter den i kildevand!\"\n    },\n    {\n      \"dato\": \"18-12-2024\",\n      \"afsnit\": \"Emma og Lukas hjalp med at pynte juletræet derhjemme... Hvert ornament havde sin egen historie, og de lyttede med stor interesse, mens deres forældre fortalte om, hvordan de havde lavet eller fået pynten gennem årene... De opdagede, at et juletræ bliver særligt, når det er fyldt med minder og kærlighed... De mærkede, hvordan de små historier gjorde juletræet helt unikt, og de følte sig ekstra tæt på deres familie denne jul...\",\n      \"farjoke\": \"Hvilken frisure har en kagemand?.... Slikhår\"\n    },\n    {\n      \"dato\": \"19-12-2024\",\n      \"afsnit\": \"Da deres skole holdt en lille juleforestilling, deltog Emma og Lukas med stor entusiasme... Emma læste en julehistorie højt, mens Lukas spillede trommer sammen med skolens lille musikgruppe... Alle klappede og smilede, og de følte sig stolte over at have bidraget med deres talenter... At dele vores talenter kan bringe glæde til både os selv og andre, tænkte de, og de mærkede, hvordan deres indsats blev en del af julens glæde for alle i salen...\",\n      \"farjoke\": \"Hvor sidder alle skibe fast?.... I Limfjorden\"\n    },\n    {\n      \"dato\": \"20-12-2024\",\n      \"afsnit\": \"Denne dag besluttede Emma og Lukas at skrive små sedler med positive ord og lægge dem rundt omkring i byen... De skrev ord som 'du er fantastisk', 'smil til verden', og 'du gør en forskel', og lagde dem på bænke, butiksvinduer og ved busstoppestedet... De så, hvordan nogle mennesker fandt sedlerne, læste dem og smilede... Det mindede dem om, at selv små ord kan lyse andres dag op og sprede glæde i hverdagen...\",\n      \"farjoke\": \"Hvad går græsset i bad i?... I et græskar.\"\n    },\n    {\n      \"dato\": \"21-12-2024\",\n      \"afsnit\": \"På markedet købte Emma og Lukas små gaver til dem, de holdt af, og pakkede dem fint ind... De glædede sig til at se glæden i deres venners og families øjne, når de åbnede gaverne... De vidste, at det ikke altid er selve gaven, men tanken bag, der betyder mest... De følte en varme i hjertet ved tanken om at kunne glæde andre, og de mærkede, at det virkelig er tanken bag gaven, der tæller...\",\n      \"farjoke\": \"Hvad gør spiderman når han er færdig med at drikke kaffe?.... Æderkoppen.\"\n    },\n    {\n      \"dato\": \"22-12-2024\",\n      \"afsnit\": \"De bagte småkager og lavede konfekt, som de delte med deres familie og naboer... Hele huset duftede af jul, og der blev grinet og fortalt historier i køkkenet, mens de arbejdede... Da småkagerne var færdige, gik de rundt og delte dem ud og mærkede glæden hos dem, der modtog... At dele det, man har lavet med kærlighed, er en særlig glæde, og Emma og Lukas følte sig ekstra tæt forbundet med deres familie og naboer denne dag...\",\n      \"farjoke\": \"Hvorfor der er så mange frisører på Bornholm?.... Fordi det er en klippeø.\"\n    },\n    {\n      \"dato\": \"23-12-2024\",\n      \"afsnit\": \"Den sidste aften inden juleaften sad de og så ud på sneen, der dalede stille og roligt over byen... Emma og Lukas tænkte på alle de gode ting, de havde oplevet sammen denne december og mærkede, hvor mange små øjeblikke, der havde gjort dem glade... Julen føles altid særlig, når man tænker på alt det, man har delt med dem, man holder af, tænkte de... De følte sig heldige at have hinanden og kunne næsten ikke vente til juleaften...\",\n      \"farjoke\": \"Hvorfor skal man ikke spise ost med huller i?.... Man for luft i maven.\"\n    },\n    {\n      \"dato\": \"24-12-2024\",\n      \"afsnit\": \"På juleaften samlede hele familien sig omkring træet og så på de mange smukke pakker og det lysende træ... Emma og Lukas følte en varme indeni, da de kiggede rundt og så smilene hos dem, de holdt af... De åbnede gaver og delte minder, men de vidste, at den bedste gave var at være sammen... For julen handler mest af alt om kærlighed, nærvær og taknemmelighed, og de følte sig rige på glæde og fællesskab denne aften...\",\n      \"farjoke\": \"Hvorfor er katte så grimme?.... De er misfarvede.\"\n    },\n    {\n      \"dato\": \"25-12-2024\",\n      \"afsnit\": \"Om morgenen gik Emma og Lukas ud i sneen og så, hvordan deres lille by lå fredfyldt og stille... Sneen glimtede, og lyden af fuglesang fyldte luften, som om hele verden var i fred og harmoni... De stod dér og mærkede en glæde, der fyldte deres hjerter, og vidste, at de ville huske denne jul for evigt... Nogle gange er de stille stunder fyldt med mest magi og glæde, tænkte de, og de gik hjem hånd i hånd med en følelse af lykke...\",\n      \"farjoke\": \"Hvordan bliver man ekspert i tordenvejr?.... Man tager et lynkursus.\"\n    }\n  ]",
+        "output": "json",
+        "x": 500,
+        "y": 80,
+        "wires": [
+            [
+                "8fb483ee18570fc8"
+            ]
+        ]
+    },
+    {
+        "id": "73420742be5d259a",
+        "type": "inject",
+        "z": "34ff5e126850947f",
+        "name": "Test trigger",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 120,
+        "y": 80,
+        "wires": [
+            [
+                "26718bef52e2f492"
+            ]
+        ]
+    },
+    {
+        "id": "8fb483ee18570fc8",
+        "type": "function",
+        "z": "34ff5e126850947f",
+        "name": "Find dagens afsnit",
+        "func": "// Hent dagens dato og formatér den til \"DD-MM-YYYY\"\nlet today = new Date();\nlet day = String(today.getDate()).padStart(2, '0');\nlet month = String(today.getMonth() + 1).padStart(2, '0');\nlet year = today.getFullYear();\nlet formattedToday = `${day}-${month}-${year}`;\n\n// Gå igennem arrayet i msg.payload\nlet array = msg.payload;\nlet result = array.find(item => item.dato === formattedToday);\n\nif (result) {\n    // Konverter tal til tekst for dagen og formater dato i langt dansk format\n    const months = [\n        \"januar\", \"februar\", \"marts\", \"april\", \"maj\", \"juni\",\n        \"juli\", \"august\", \"september\", \"oktober\", \"november\", \"december\"\n    ];\n\n    const dayNames = [\n        \"første\", \"anden\", \"tredje\", \"fjerde\", \"femte\", \"sjette\", \"syvende\", \"ottende\", \"niende\", \"tiende\",\n        \"elfte\", \"tolvte\", \"trettende\", \"fjortende\", \"femtende\", \"sekstende\", \"syttende\", \"attende\", \"nittende\", \"tyvende\",\n        \"enogtyvende\", \"toogtyvende\", \"treogtyvende\", \"fireogtyvende\", \"femogtyvende\", \"seksogtyvende\", \"syvogtyvende\", \"otteogtyvende\", \"niogtyvende\", \"tredivte\", \"enogtredivte\"\n    ];\n\n    let [dayNum, monthNum] = result.dato.split('-');\n    let dayText = dayNames[parseInt(dayNum) - 1]; // Konverter dag til tekst\n    let monthText = months[parseInt(monthNum) - 1]; // Find månedsnavn\n\n    let longDate = `${dayText} ${monthText}`;\n\n    // Returner resultatet i msg.payload\n    msg.payload = {\n        dato: longDate,\n        afsnit: result.afsnit,\n        farjoke: result.farjoke\n    };\n} else {\n    // Returner fejlmeddelelse hvis dato ikke matcher\n    msg.payload = { error: \"Øv... Jeg kunne ikke finde noget afsnit til i dag\" };\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 690,
+        "y": 80,
+        "wires": [
+            [
+                "535d17e83baa8ab7"
+            ]
+        ]
+    },
+    {
+        "id": "535d17e83baa8ab7",
+        "type": "function",
+        "z": "34ff5e126850947f",
+        "name": "Formater til Google tts",
+        "func": "// Tjek om msg.payload indeholder de forventede felter\nif (msg.payload.dato && msg.payload.afsnit && msg.payload.farjoke) {\n    // Formatér \"dato\", \"afsnit\" og \"farjoke\" sammen til én streng\n    msg.payload.message = `${msg.payload.dato}.. ${msg.payload.afsnit}... SLUT..... Kom. lad os grine lidt.. ${msg.payload.farjoke}`;\n} else {\n    // Hvis felterne ikke er til stede, returner ingenting\n    msg.payload.message = \"\";\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 80,
+        "wires": [
+            [
+                "3a9e23d692058614"
+            ]
+        ]
+    },
+    {
+        "id": "26718bef52e2f492",
+        "type": "api-call-service",
+        "z": "34ff5e126850947f",
+        "name": "Volume",
+        "server": "47a12599.5597fc",
+        "version": 7,
+        "debugenabled": false,
+        "action": "media_player.volume_set",
+        "floorId": [],
+        "areaId": [],
+        "deviceId": [],
+        "entityId": [
+            "media_player.kokken_nest"
+        ],
+        "labelId": [],
+        "data": "{\t    \"volume_level\": 0.5\t}",
+        "dataType": "jsonata",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "blockInputOverrides": true,
+        "domain": "media_player",
+        "service": "volume_set",
+        "x": 340,
+        "y": 80,
+        "wires": [
+            [
+                "388fee6e7befdca0"
+            ]
+        ]
+    },
+    {
+        "id": "3a9e23d692058614",
+        "type": "api-call-service",
+        "z": "34ff5e126850947f",
+        "name": "Google TTS",
+        "server": "47a12599.5597fc",
+        "version": 7,
+        "debugenabled": false,
+        "action": "tts.speak",
+        "floorId": [],
+        "areaId": [],
+        "deviceId": [],
+        "entityId": [
+            "tts.home_assistant_cloud"
+        ],
+        "labelId": [],
+        "data": "{\t    \"cache\": false,\t    \"media_player_entity_id\": \"media_player.kokken_nest\",\t    \"message\": payload.message\t}",
+        "dataType": "jsonata",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "blockInputOverrides": true,
+        "domain": "tts",
+        "service": "speak",
+        "x": 1190,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9870c26ecc5cdaf1",
+        "type": "server-state-changed",
+        "z": "34ff5e126850947f",
+        "name": "HA Trigger",
+        "server": "47a12599.5597fc",
+        "version": 6,
+        "outputs": 2,
+        "exposeAsEntityConfig": "",
+        "entities": {
+            "entity": [
+                "input_boolean.julekalender_afspil"
+            ],
+            "substring": [],
+            "regex": []
+        },
+        "outputInitially": false,
+        "stateType": "str",
+        "ifState": "on",
+        "ifStateType": "str",
+        "ifStateOperator": "is",
+        "outputOnlyOnStateChange": true,
+        "for": "0",
+        "forType": "num",
+        "forUnits": "minutes",
+        "ignorePrevStateNull": false,
+        "ignorePrevStateUnknown": false,
+        "ignorePrevStateUnavailable": false,
+        "ignoreCurrentStateUnknown": false,
+        "ignoreCurrentStateUnavailable": false,
+        "outputProperties": [
+            {
+                "property": "payload",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entityState"
+            },
+            {
+                "property": "data",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "eventData"
+            },
+            {
+                "property": "topic",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "triggerId"
+            }
+        ],
+        "x": 120,
+        "y": 200,
+        "wires": [
+            [
+                "26718bef52e2f492",
+                "59b8a3cb0742331f"
+            ],
+            [
+                "59b8a3cb0742331f"
+            ]
+        ]
+    },
+    {
+        "id": "59b8a3cb0742331f",
+        "type": "api-call-service",
+        "z": "34ff5e126850947f",
+        "name": "Reset trigger",
+        "server": "47a12599.5597fc",
+        "version": 7,
+        "debugenabled": false,
+        "action": "input_boolean.turn_off",
+        "floorId": [],
+        "areaId": [],
+        "deviceId": [],
+        "entityId": [
+            "input_boolean.julekalender_afspil"
+        ],
+        "labelId": [],
+        "data": "",
+        "dataType": "jsonata",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "blockInputOverrides": true,
+        "domain": "input_boolean",
+        "service": "turn_off",
+        "x": 350,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "47a12599.5597fc",
+        "type": "server",
+        "name": "Home Assistant",
+        "addon": true,
+        "rejectUnauthorizedCerts": true,
+        "ha_boolean": "",
+        "connectionDelay": false,
+        "cacheJson": false,
+        "heartbeat": false,
+        "heartbeatInterval": "",
+        "statusSeparator": "",
+        "enableGlobalContextStore": false
+    }
+]
