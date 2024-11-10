@@ -1,4 +1,4 @@
-# Home Assistant Jule kalender 2024
+# Home Assistant Julekalender 2024
 Min julekalender for mine børn i julen 2024.
 
 ## Projektet
